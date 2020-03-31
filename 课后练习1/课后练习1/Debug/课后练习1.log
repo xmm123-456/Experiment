@@ -1,0 +1,11 @@
+﻿  课后练习1View.cpp
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(60): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(61): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(65): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(72): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(127): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(128): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(132): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\课后练习1\课后练习1\课后练习1view.cpp(139): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  课后练习1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\课后练习1\Debug\课后练习1.exe
+  课后练习1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\课后练习1\Debug\课后练习1.pdb (Partial PDB)
