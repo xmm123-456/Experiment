@@ -1,0 +1,10 @@
+﻿  t11_3View.cpp
+c:\users\administrator\documents\visual studio 2015\projects\t11_3\t11_3\t11_3view.cpp(170): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\t11_3\t11_3\t11_3view.cpp(171): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\t11_3\t11_3\t11_3view.cpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\t11_3\t11_3\t11_3view.cpp(183): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  t11_3.cpp
+  t11_3.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\t11_3\Debug\t11_3.exe
+  t11_3.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\t11_3\Debug\t11_3.pdb (Partial PDB)
