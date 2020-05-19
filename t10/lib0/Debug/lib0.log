@@ -1,0 +1,3 @@
+﻿  w1.cpp
+c:\users\administrator\documents\visual studio 2015\projects\lib0\lib0\w1.cpp(10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  lib0.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\lib0\Debug\lib0.lib

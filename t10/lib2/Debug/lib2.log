@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  lib2.cpp
+c:\users\administrator\documents\visual studio 2015\projects\lib0\lib2\lib2.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 c:\users\administrator\documents\visual studio 2015\Projects\lib0\Debug\lib2.lib 和对象 c:\users\administrator\documents\visual studio 2015\Projects\lib0\Debug\lib2.exp
+  lib2.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\lib0\Debug\lib2.dll
+  lib2.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\lib0\Debug\lib2.pdb (Full PDB)
