@@ -42,7 +42,5 @@ public:
 	int h;
 	afx_msg void OnDrawItem(int nIDCtl, LPDRAWITEMSTRUCT lpDrawItemStruct);
 	afx_msg void OnLbnSelchangeList1();
-
-	afx_msg void OnClose();
 	afx_msg void OnDestroy();
 };
